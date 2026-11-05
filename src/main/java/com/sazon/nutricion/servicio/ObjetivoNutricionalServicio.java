@@ -1,6 +1,6 @@
 package com.sazon.nutricion.servicio;
 
-import com.sazon.nutricion.modelos.ObjetivoNutricional;
+import com.sazon.nutricion.modelo.ObjetivoNutricional;
 import java.util.List;
 
 public interface ObjetivoNutricionalServicio {
